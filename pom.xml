@@ -46,13 +46,6 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-			<!-- Logback Classic -->
-			<dependency>
-				<groupId>ch.qos.logback</groupId>
-				<artifactId>logback-classic</artifactId>
-				<version>1.4.14</version>
-			</dependency>
-
 			<!-- SLF4J API -->
 			<dependency>
 				<groupId>org.slf4j</groupId>
